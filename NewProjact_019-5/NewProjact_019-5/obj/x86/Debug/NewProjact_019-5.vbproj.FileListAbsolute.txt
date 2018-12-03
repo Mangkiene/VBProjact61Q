@@ -1,0 +1,13 @@
+C:\Users\Thammanun\AppData\Local\Temporary Projects\NewProjact_019-5\bin\Debug\NewProjact_019-5.exe
+C:\Users\Thammanun\AppData\Local\Temporary Projects\NewProjact_019-5\bin\Debug\NewProjact_019-5.pdb
+C:\Users\Thammanun\AppData\Local\Temporary Projects\NewProjact_019-5\bin\Debug\NewProjact_019-5.xml
+C:\Users\Thammanun\AppData\Local\Temporary Projects\NewProjact_019-5\obj\x86\Debug\NewProjact_019_5.frmfirstform.resources
+C:\Users\Thammanun\AppData\Local\Temporary Projects\NewProjact_019-5\obj\x86\Debug\NewProjact_019_5.frmsecondform.resources
+C:\Users\Thammanun\AppData\Local\Temporary Projects\NewProjact_019-5\obj\x86\Debug\NewProjact_019_5.Resources.resources
+C:\Users\Thammanun\AppData\Local\Temporary Projects\NewProjact_019-5\obj\x86\Debug\NewProjact_019-5.vbproj.GenerateResource.Cache
+C:\Users\Thammanun\AppData\Local\Temporary Projects\NewProjact_019-5\obj\x86\Debug\NewProjact_019-5.exe
+C:\Users\Thammanun\AppData\Local\Temporary Projects\NewProjact_019-5\obj\x86\Debug\NewProjact_019-5.xml
+C:\Users\Thammanun\AppData\Local\Temporary Projects\NewProjact_019-5\obj\x86\Debug\NewProjact_019-5.pdb
+D:\VB_61\NewProjact_019-5\NewProjact_019-5\obj\x86\Debug\NewProjact_019-5.exe
+D:\VB_61\NewProjact_019-5\NewProjact_019-5\obj\x86\Debug\NewProjact_019-5.xml
+D:\VB_61\NewProjact_019-5\NewProjact_019-5\obj\x86\Debug\NewProjact_019-5.pdb
