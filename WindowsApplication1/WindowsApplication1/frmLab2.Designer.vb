@@ -25,16 +25,16 @@ Partial Class frmLab2
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
-        Me.txt1 = New System.Windows.Forms.TextBox()
-        Me.txt2 = New System.Windows.Forms.TextBox()
+        Me.txtvis = New System.Windows.Forms.TextBox()
+        Me.txtvri = New System.Windows.Forms.TextBox()
         Me.Label4 = New System.Windows.Forms.Label()
-        Me.lbl1 = New System.Windows.Forms.Label()
-        Me.lbl2 = New System.Windows.Forms.Label()
+        Me.lblvis = New System.Windows.Forms.Label()
+        Me.lblfri = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
-        Me.lbl3 = New System.Windows.Forms.Label()
-        Me.lbl4 = New System.Windows.Forms.Label()
+        Me.lbltotal = New System.Windows.Forms.Label()
+        Me.lblcom = New System.Windows.Forms.Label()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
@@ -71,23 +71,23 @@ Partial Class frmLab2
         Me.Label3.Text = "Frista Glota"
         Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'txt1
+        'txtvis
         '
-        Me.txt1.Location = New System.Drawing.Point(166, 70)
-        Me.txt1.Multiline = True
-        Me.txt1.Name = "txt1"
-        Me.txt1.Size = New System.Drawing.Size(146, 33)
-        Me.txt1.TabIndex = 0
-        Me.txt1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.txtvis.Location = New System.Drawing.Point(166, 70)
+        Me.txtvis.Multiline = True
+        Me.txtvis.Name = "txtvis"
+        Me.txtvis.Size = New System.Drawing.Size(146, 33)
+        Me.txtvis.TabIndex = 0
+        Me.txtvis.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
-        'txt2
+        'txtvri
         '
-        Me.txt2.Location = New System.Drawing.Point(166, 125)
-        Me.txt2.Multiline = True
-        Me.txt2.Name = "txt2"
-        Me.txt2.Size = New System.Drawing.Size(146, 33)
-        Me.txt2.TabIndex = 1
-        Me.txt2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.txtvri.Location = New System.Drawing.Point(166, 125)
+        Me.txtvri.Multiline = True
+        Me.txtvri.Name = "txtvri"
+        Me.txtvri.Size = New System.Drawing.Size(146, 33)
+        Me.txtvri.TabIndex = 1
+        Me.txtvri.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label4
         '
@@ -100,23 +100,23 @@ Partial Class frmLab2
         Me.Label4.Text = "ค่าคอมมิชชั่น"
         Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'lbl1
+        'lblvis
         '
-        Me.lbl1.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.lbl1.Location = New System.Drawing.Point(338, 70)
-        Me.lbl1.Name = "lbl1"
-        Me.lbl1.Size = New System.Drawing.Size(128, 33)
-        Me.lbl1.TabIndex = 2
-        Me.lbl1.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.lblvis.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.lblvis.Location = New System.Drawing.Point(338, 70)
+        Me.lblvis.Name = "lblvis"
+        Me.lblvis.Size = New System.Drawing.Size(128, 33)
+        Me.lblvis.TabIndex = 2
+        Me.lblvis.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         '
-        'lbl2
+        'lblfri
         '
-        Me.lbl2.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.lbl2.Location = New System.Drawing.Point(338, 125)
-        Me.lbl2.Name = "lbl2"
-        Me.lbl2.Size = New System.Drawing.Size(128, 33)
-        Me.lbl2.TabIndex = 2
-        Me.lbl2.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.lblfri.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.lblfri.Location = New System.Drawing.Point(338, 125)
+        Me.lblfri.Name = "lblfri"
+        Me.lblfri.Size = New System.Drawing.Size(128, 33)
+        Me.lblfri.TabIndex = 2
+        Me.lblfri.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         '
         'Button1
         '
@@ -151,23 +151,23 @@ Partial Class frmLab2
         Me.Label6.Text = "ค่าคอมมิชชั่นรวม"
         Me.Label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'lbl3
+        'lbltotal
         '
-        Me.lbl3.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.lbl3.Location = New System.Drawing.Point(143, 273)
-        Me.lbl3.Name = "lbl3"
-        Me.lbl3.Size = New System.Drawing.Size(152, 33)
-        Me.lbl3.TabIndex = 2
-        Me.lbl3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        Me.lbltotal.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.lbltotal.Location = New System.Drawing.Point(143, 273)
+        Me.lbltotal.Name = "lbltotal"
+        Me.lbltotal.Size = New System.Drawing.Size(152, 33)
+        Me.lbltotal.TabIndex = 2
+        Me.lbltotal.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'lbl4
+        'lblcom
         '
-        Me.lbl4.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.lbl4.Location = New System.Drawing.Point(306, 273)
-        Me.lbl4.Name = "lbl4"
-        Me.lbl4.Size = New System.Drawing.Size(160, 33)
-        Me.lbl4.TabIndex = 2
-        Me.lbl4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        Me.lblcom.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.lblcom.Location = New System.Drawing.Point(306, 273)
+        Me.lblcom.Name = "lblcom"
+        Me.lblcom.Size = New System.Drawing.Size(160, 33)
+        Me.lblcom.TabIndex = 2
+        Me.lblcom.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Button2
         '
@@ -187,12 +187,12 @@ Partial Class frmLab2
         Me.ClientSize = New System.Drawing.Size(481, 373)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.lbl2)
-        Me.Controls.Add(Me.lbl4)
-        Me.Controls.Add(Me.lbl3)
-        Me.Controls.Add(Me.lbl1)
-        Me.Controls.Add(Me.txt2)
-        Me.Controls.Add(Me.txt1)
+        Me.Controls.Add(Me.lblfri)
+        Me.Controls.Add(Me.lblcom)
+        Me.Controls.Add(Me.lbltotal)
+        Me.Controls.Add(Me.lblvis)
+        Me.Controls.Add(Me.txtvri)
+        Me.Controls.Add(Me.txtvis)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label6)
@@ -208,16 +208,16 @@ Partial Class frmLab2
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label3 As System.Windows.Forms.Label
-    Friend WithEvents txt1 As System.Windows.Forms.TextBox
-    Friend WithEvents txt2 As System.Windows.Forms.TextBox
+    Friend WithEvents txtvis As System.Windows.Forms.TextBox
+    Friend WithEvents txtvri As System.Windows.Forms.TextBox
     Friend WithEvents Label4 As System.Windows.Forms.Label
-    Friend WithEvents lbl1 As System.Windows.Forms.Label
-    Friend WithEvents lbl2 As System.Windows.Forms.Label
+    Friend WithEvents lblvis As System.Windows.Forms.Label
+    Friend WithEvents lblfri As System.Windows.Forms.Label
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents Label5 As System.Windows.Forms.Label
     Friend WithEvents Label6 As System.Windows.Forms.Label
-    Friend WithEvents lbl3 As System.Windows.Forms.Label
-    Friend WithEvents lbl4 As System.Windows.Forms.Label
+    Friend WithEvents lbltotal As System.Windows.Forms.Label
+    Friend WithEvents lblcom As System.Windows.Forms.Label
     Friend WithEvents Button2 As System.Windows.Forms.Button
 
 End Class
