@@ -74,12 +74,4 @@
             lblCredit.Text = decCradit
         End If
     End Sub
-
-    Private Sub lblTotal_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblTotal.Click
-
-    End Sub
-
-    Private Sub lblDiscount_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblDiscount.Click
-
-    End Sub
 End Class

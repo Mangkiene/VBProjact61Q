@@ -340,7 +340,7 @@ Partial Class frmJob6
         Me.lblPaidPrice.TabIndex = 6
         Me.lblPaidPrice.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'frmLab6
+        'frmJob6
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -353,7 +353,7 @@ Partial Class frmJob6
         Me.Controls.Add(Me.lblSartPrice)
         Me.Controls.Add(Me.chkCarForMe)
         Me.Controls.Add(Me.Label1)
-        Me.Name = "frmLab6"
+        Me.Name = "frmJob6"
         Me.Text = "Week6"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()

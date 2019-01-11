@@ -40,9 +40,9 @@ Partial Class Frmjob4
         Me.lblAllowance = New System.Windows.Forms.Label()
         Me.lblTax = New System.Windows.Forms.Label()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.radShortDate = New System.Windows.Forms.RadioButton()
-        Me.radGenDate = New System.Windows.Forms.RadioButton()
         Me.radLongDate = New System.Windows.Forms.RadioButton()
+        Me.radGenDate = New System.Windows.Forms.RadioButton()
+        Me.radShortDate = New System.Windows.Forms.RadioButton()
         Me.btnCalTax = New System.Windows.Forms.Button()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
@@ -231,18 +231,18 @@ Partial Class Frmjob4
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "รูปแบบวันที่"
         '
-        'radShortDate
+        'radLongDate
         '
-        Me.radShortDate.AutoSize = True
-        Me.radShortDate.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(222, Byte))
-        Me.radShortDate.ForeColor = System.Drawing.Color.Black
-        Me.radShortDate.Location = New System.Drawing.Point(27, 21)
-        Me.radShortDate.Name = "radShortDate"
-        Me.radShortDate.Size = New System.Drawing.Size(133, 20)
-        Me.radShortDate.TabIndex = 0
-        Me.radShortDate.TabStop = True
-        Me.radShortDate.Text = "วันที่แบบ Short Date"
-        Me.radShortDate.UseVisualStyleBackColor = True
+        Me.radLongDate.AutoSize = True
+        Me.radLongDate.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(222, Byte))
+        Me.radLongDate.ForeColor = System.Drawing.Color.Black
+        Me.radLongDate.Location = New System.Drawing.Point(27, 73)
+        Me.radLongDate.Name = "radLongDate"
+        Me.radLongDate.Size = New System.Drawing.Size(132, 20)
+        Me.radLongDate.TabIndex = 2
+        Me.radLongDate.TabStop = True
+        Me.radLongDate.Text = "วันที่แบบ Long Date"
+        Me.radLongDate.UseVisualStyleBackColor = True
         '
         'radGenDate
         '
@@ -257,18 +257,18 @@ Partial Class Frmjob4
         Me.radGenDate.Text = "วันที่แบบ General Date"
         Me.radGenDate.UseVisualStyleBackColor = True
         '
-        'radLongDate
+        'radShortDate
         '
-        Me.radLongDate.AutoSize = True
-        Me.radLongDate.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(222, Byte))
-        Me.radLongDate.ForeColor = System.Drawing.Color.Black
-        Me.radLongDate.Location = New System.Drawing.Point(27, 73)
-        Me.radLongDate.Name = "radLongDate"
-        Me.radLongDate.Size = New System.Drawing.Size(132, 20)
-        Me.radLongDate.TabIndex = 2
-        Me.radLongDate.TabStop = True
-        Me.radLongDate.Text = "วันที่แบบ Long Date"
-        Me.radLongDate.UseVisualStyleBackColor = True
+        Me.radShortDate.AutoSize = True
+        Me.radShortDate.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(222, Byte))
+        Me.radShortDate.ForeColor = System.Drawing.Color.Black
+        Me.radShortDate.Location = New System.Drawing.Point(27, 21)
+        Me.radShortDate.Name = "radShortDate"
+        Me.radShortDate.Size = New System.Drawing.Size(133, 20)
+        Me.radShortDate.TabIndex = 0
+        Me.radShortDate.TabStop = True
+        Me.radShortDate.Text = "วันที่แบบ Short Date"
+        Me.radShortDate.UseVisualStyleBackColor = True
         '
         'btnCalTax
         '

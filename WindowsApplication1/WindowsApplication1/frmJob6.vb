@@ -97,12 +97,4 @@
             lblPaidPrice.Text = Val(lblPaidPrice.Text) + 35000
         End If
     End Sub
-
-    Private Sub lblPaidPrice_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblPaidPrice.Click
-
-    End Sub
-
-    Private Sub lblFree1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblFree1.Click
-
-    End Sub
 End Class

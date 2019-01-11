@@ -14,3 +14,4 @@ D:\VBProjact61Q\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplica
 D:\VBProjact61Q\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
 D:\VBProjact61Q\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmLed7.resources
 D:\VBProjact61Q\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmJob6.resources
+D:\VBProjact61Q\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmAssign3.resources

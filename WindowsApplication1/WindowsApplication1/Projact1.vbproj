@@ -72,6 +72,12 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmAssign3.Designer.vb">
+      <DependentUpon>frmAssign3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAssign3.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmfrist.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -138,6 +144,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmAssign3.resx">
+      <DependentUpon>frmAssign3.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmfrist.resx">
       <DependentUpon>frmfrist.vb</DependentUpon>
     </EmbeddedResource>
