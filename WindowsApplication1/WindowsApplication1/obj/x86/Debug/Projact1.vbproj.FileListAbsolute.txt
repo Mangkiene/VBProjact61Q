@@ -15,3 +15,4 @@ D:\VBProjact61Q\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApp
 D:\VBProjact61Q\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmLed7.resources
 D:\VBProjact61Q\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmJob6.resources
 D:\VBProjact61Q\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmAssign3.resources
+D:\VBProjact61Q\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmLab10.resources
