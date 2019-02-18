@@ -40,8 +40,8 @@
             lblSumC.Text = sumC
 
             Call totalMax()
-            lblMaxSateName.Text = Name
             lblMaxSaleAmount.Text = max
+            lblMaxSaleName.Text = Name
         End If
 
 
